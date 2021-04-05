@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/824737213144236032/828773808818880532/Untitled_1.png?width=216&height=49" align="left"/><a href="https://goatdevs.glitch.me/"> <img src="https://media.discordapp.net/attachments/824737213144236032/828774022564937788/standard_2.gif?width=314&height=40" align="right"/>
+<img src="https://media.discordapp.net/attachments/824737213144236032/828773808818880532/Untitled_1.png?width=216&height=49" align="left"/><img src="https://media.discordapp.net/attachments/824737213144236032/828774022564937788/standard_2.gif?width=314&height=40" align="right"/>
 
 ```js
 <Quick Introduction>
