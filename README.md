@@ -2,7 +2,7 @@
 
 ```js
 <Quick Introduction>
-Eyyoo! Code addict, with life lessons :).
+I might not update projects but i do post them ;).
 ```
 
 - 🌱 I’m currently learning everything 🤣
@@ -19,5 +19,7 @@ Eyyoo! Code addict, with life lessons :).
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <br />
 
-
-**© [Goat/idhq](https://github.com/idhq)**
+<h1>Credits<h1/>
+**Github : © [Goat/idhq](https://github.com/idhq)**
+**Snapchat : © [Goat/idhq](https://www.snapchat.com/add/quakers.v)**
+**Discord : © ``! Goat <$#2157``
