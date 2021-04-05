@@ -19,7 +19,7 @@ I might not update projects but i do post them ;).
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <br />
 
-<h1>Credits<h1/>
-<p>**Github : © [Goat/idhq](https://github.com/idhq)** <p/>
-<p>**Snapchat : © [Goat/idhq](https://www.snapchat.com/add/quakers.v)** <p/>
-<p>**Discord : © ``! Goat <$#2157`` <p/>
+# Credits
+**Github : © [Goat/idhq](https://github.com/idhq)** 
+**Snapchat : © [Goat/idhq](https://www.snapchat.com/add/quakers.v)** 
+**Discord : © ``! Goat <$#2157`` 
