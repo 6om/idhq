@@ -20,6 +20,6 @@ I might not update projects but i do post them ;).
 <br />
 
 <h1>Credits<h1/>
-**Github : © [Goat/idhq](https://github.com/idhq)**
-**Snapchat : © [Goat/idhq](https://www.snapchat.com/add/quakers.v)**
-**Discord : © ``! Goat <$#2157``
+<p>**Github : © [Goat/idhq](https://github.com/idhq)** <p/>
+<p>**Snapchat : © [Goat/idhq](https://www.snapchat.com/add/quakers.v)** <p/>
+<p>**Discord : © ``! Goat <$#2157`` <p/>
