@@ -1,4 +1,4 @@
-![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
+![welcome](https://media.discordapp.net/attachments/824737213144236032/828773808818880532/Untitled_1.png?width=216&height=49)<a href="https://goatdevs.glitch.me/"> <img src="https://media.discordapp.net/attachments/824737213144236032/828774022564937788/standard_2.gif?width=314&height=40" align="right"/>
 
 ```js
 <Quick Introduction>
