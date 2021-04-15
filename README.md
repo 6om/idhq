@@ -19,6 +19,17 @@ I might not update projects but i do post them ;).
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <br />
 
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=idhq&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+<br />
+
 # Credits
 **Github : © [Goat/idhq](https://github.com/idhq)** <br />
 **Snapchat : © [Goat/idhq](https://www.snapchat.com/add/quakers.v)** <br />
